@@ -24,11 +24,11 @@ Polymorphism is a core concept in object-oriented programming (OOP) that allows 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/polymorphism-python.git
+  https://github.com/Rakshitachadalawada/Python-Polymorphism-A-Practical-Guide.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd polymorphism-python
+    cd Python-Polymorphism-A-Practical-Guide
     ```
 
 ### Running the Script
